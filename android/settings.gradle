@@ -1,0 +1,3 @@
+rootProject.name = 'LatexDemo'
+
+include ':app'
